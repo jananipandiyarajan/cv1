@@ -13,12 +13,12 @@
 }
 .profile {
   font-family: 'Macondo Swash Caps', cursive;
-  font-size: 10px;
+  font-size: 20px;
   text-align: center;
 }
 .skills {
   text-align: center;
-  font-size: 10px;
+  font-size: 20px;
   font-family: 'Macondo Swash Caps', cursive;
 }
 .center {
@@ -35,7 +35,7 @@
   width: 50%;
   line-height: 2;
   margin: 100px auto 100px auto;
-  font-size: 10px;
+  font-size: 20px;
   font-family: 'Macondo Swash Caps', cursive;
   text-align: center;
 }
